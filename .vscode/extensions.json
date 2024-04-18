@@ -3,6 +3,7 @@
         "microsoft.admin-pack",
         "microsoft.arc",
         "microsoft.azcli",
-        "microsoft.net-6-runtime"
+        "microsoft.net-6-runtime",
+        "microsoft.datavirtualization"
     ]
 }
