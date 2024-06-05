@@ -4,6 +4,7 @@
         "microsoft.arc",
         "microsoft.azcli",
         "microsoft.net-6-runtime",
-        "microsoft.datavirtualization"
+        "microsoft.datavirtualization",
+        "ms-vscode.powershell"
     ]
 }
